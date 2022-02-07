@@ -12,7 +12,7 @@ jQuery
 Moment
 
 
-[Link to Live Site](https://cathmcneel.github.io/shindig/)
+[Link to Live Site](https://yakattak.github.io/shindig2/)
 
 
 
